@@ -122,7 +122,7 @@ public class Principal {
                     
                     break;
                 default:
-                    System.out.println("Introduce una opcion válida");
+                    System.out.println("Introduce una opcion válida.....");
                     break;
 
             }
